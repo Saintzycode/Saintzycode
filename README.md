@@ -1,5 +1,17 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+👋 Hello, I'm Saintzycode!
+Welcome to my GitHub profile!
+
+I'm an aspiring app developer who enjoys turning ideas into functional, user-friendly applications. I build apps using modern tools and frameworks, and I'm always exploring new technologies to improve my skills and deliver better experiences.
+
+Here you'll find a collection of my app development projects — from simple tools to more advanced systems. Whether you're a fellow developer, a recruiter, or just someone curious about what I do, feel free to explore my work!
+
+🚀 What I Do:
+💡 Design and build mobile and desktop applications
+
+🛠️ Experiment with new frameworks and libraries
+
+🔧 Continuously improve through hands-on projects and learning
+
+📱 Some of My Projects:
+Smart Kiosk System
+
