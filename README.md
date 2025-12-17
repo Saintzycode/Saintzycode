@@ -109,7 +109,7 @@ I'm always excited to collaborate on interesting projects, discuss new ideas, or
   
   
   
-  ![Snake animation](https://s2.ezgif.com/tmp/ezgif-24b24a5c1ec91096.webp))
+  ![Snake animation](https://s2.ezgif.com/tmp/ezgif-24b24a5c1ec91096.webp)
   
   ### 🌟 Thanks for visiting my profile! Have a great day! 🌟
   
