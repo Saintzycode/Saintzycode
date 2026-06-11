@@ -4,7 +4,7 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║   ░░░░░░░░░░░░   John Kenneth Reside   ░░░░░░░░░░░░          ║
-║   ░  Saintzycode  ░  Developer · Builder · Learner  ░        ║
+║      Saintzycode     Developer · Builder · Learner           ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
