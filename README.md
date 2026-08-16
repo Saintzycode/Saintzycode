@@ -35,7 +35,7 @@ class JohnKennethReside {
 
   final Map<String, String> setup = {
     "GPU":      "GTX 1660 Super",
-    "CPU":      "Ryzen 3 3200G",
+    "CPU":      "Ryzen 5 5600",
     "Keyboard": "Aula F75 (Synthwave RGB)",
     "Editor":   "VS Code — Synthwave '84 theme",
     "Monitors": "Dual setup, always",
